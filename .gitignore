@@ -1,0 +1,22 @@
+node_modules
+heroku
+# Webstorm
+.idea
+# Netbeans
+/nbproject/*
+# Cloud9
+.c9
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+# Visual Studio
+[Oo]bj/
+/config/env/env.js
+*.log
+
+# ignore logs and sessions
+*logs/*
+*sessions/*
+
+# OS generated files #
+######################
+.DS_Store

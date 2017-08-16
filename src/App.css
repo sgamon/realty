@@ -1,0 +1,41 @@
+body {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.content {
+  margin-top: 55px;
+}
+
+.card {
+  margin-right: 20px;
+  height: 250px;
+}
+
+label {
+  display: inline-block;
+  width: 60px;
+  text-align: right;
+  margin-right: 5px;
+}
+
+label::after {
+  content: ":";
+}
+
+.card div.seeMore {
+  padding-top: 50px;
+  text-align: right;
+}
+
+.searchBox {
+  margin: 0px 0px 10px 0px;
+}
+
+.ReactModal__Content.ReactModal__Content--after-open {
+  top: 80px !important;
+}
+
+
+.map {
+}
